@@ -5,4 +5,4 @@ Esta es una tarea del  laboratorio de metodos computacionales
 Julián Rojas
 
 # Sobre el Colaborador
-Iván Romero
+Iván Romero nació en Barrancabermeja en 2000. Actualmente estudia Geociencias y le gusta la fotografía.
