@@ -4,5 +4,5 @@
 g++ main.cpp
 ./a.out >> datos.txt
 
-python grafica.py >> grafico.pdf
+python grafica.py 
 
